@@ -1,0 +1,5 @@
+-main Mother
+-swf-header 960:540:60
+-swf-version 11.4
+-swf-lib away3d.swc
+-swf output.swf

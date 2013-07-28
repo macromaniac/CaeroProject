@@ -1,0 +1,5 @@
+-main Mother
+-cp src
+-cp hxclasses
+-swf-lib away3d.swc
+-swf empty.swf
